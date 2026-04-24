@@ -1,5 +1,7 @@
 build:
   docker:
-    worker: Dockerfile
+    web:
+      dockerfile: Dockerfile
+
 run:
-  worker: node -e "require('./index')"
+  web: npm index
