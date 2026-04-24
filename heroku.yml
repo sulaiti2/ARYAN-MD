@@ -4,4 +4,4 @@ build:
       dockerfile: Dockerfile
 
 run:
-  web: npm index
+  web: npm start
