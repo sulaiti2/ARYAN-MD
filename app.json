@@ -1,4 +1,5 @@
 {
+  "name": "ARYAN-MD",
   "description": "∆RY∆N-TECH — A Powerful WhatsApp Bot built with Node.js.",
   "repository": "https://github.com/aryankingkilalu/ARYAN-MD",
   "logo": "https://files.catbox.moe/j35jos.jpg",
@@ -6,7 +7,7 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Your WhatsApp session ID. Get one from the session site.",
+      "description": "Your WhatsApp session ID. Aryan-X:~<base64>",
       "required": true
     }
   },
@@ -15,5 +16,17 @@
       "quantity": 1,
       "size": "basic"
     }
-  }
+  },
+  "addons": [
+    { "plan": "heroku-postgresql" }
+  ],
+  "scripts": {
+    "start": "node index.js"
+  },
+  "buildpacks": [
+    { "url": "heroku/nodejs" },
+    { "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git" },
+    { "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest" },
+    { "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git" }
+  ]
 }
