@@ -28,7 +28,7 @@
 <p align="center">
     <strong>2.SESSION PAIR</strong>
     <br>
-    <a href="https://usifute-8a9e9eaba46e.herokuapp.com/pair" target="_blank">
+    <a href="https://aryanpair-a1114b3f512b.herokuapp.com/pair" target="_blank">
         <img alt="WEBSITE" src="https://img.shields.io/badge/Let%27s_Pair-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkpink&color=darkpink"/>
     </a>
 </p>
