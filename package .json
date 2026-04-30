@@ -1,0 +1,16 @@
+{
+  "name": "aryan-md",
+  "version": "1.0.0",
+  "description": "∆RY∆N-TECH WhatsApp Bot Launcher",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.17",
+    "axios": "^1.6.0"
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}
