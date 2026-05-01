@@ -15,7 +15,35 @@
 
 </div>
 
----
+---<br><br>
+
+<a href="https://render.com/">
+<img src="https://img.shields.io/badge/⚡_DEPLOY_RENDER-000?style=for-the-badge&color=00ffff">
+</a>
+
+<br><br>
+
+<a href="https://replit.com/">
+<img src="https://img.shields.io/badge/💻_DEPLOY_REPLIT-000?style=for-the-badge&color=orange">
+</a>
+
+<br><br>
+
+<a href="https://railway.app/">
+<img src="https://img.shields.io/badge/🚂_DEPLOY_RAILWAY-000?style=for-the-badge&color=black">
+</a>
+
+<br><br>
+
+<a href="https://vercel.com/">
+<img src="https://img.shields.io/badge/🌐_DEPLOY_VERCEL-000?style=for-the-badge&color=blue">
+</a>
+
+<br><br>
+
+<a href="#">
+<img src="https://img.shields.io/badge/🖥️_DEPLOY_VPS-000?style=for-the-badge&color=green">
+</a>
 
 <h1 align="center">⚡ INSTALLATION MATRIX ⚡</h1>
 
